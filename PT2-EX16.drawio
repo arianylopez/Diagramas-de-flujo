@@ -1,0 +1,95 @@
+<mxfile host="app.diagrams.net" modified="2024-05-14T03:13:33.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gUPonfACjVIQxAjedArm" version="24.4.0" type="github">
+  <diagram name="Página-1" id="K4TC5vR2KJ3JZp3WbKIz">
+    <mxGraphModel dx="603" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ww6WIZnPR_xOlYPMYmwE-1" target="Ww6WIZnPR_xOlYPMYmwE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-1" value="INICIO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="40" width="94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ww6WIZnPR_xOlYPMYmwE-2" target="Ww6WIZnPR_xOlYPMYmwE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-2" value="divident&lt;div&gt;divider&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ww6WIZnPR_xOlYPMYmwE-4" target="Ww6WIZnPR_xOlYPMYmwE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-4" value="cociente&lt;div&gt;residuo=divident&lt;/div&gt;&lt;div&gt;i=0&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ww6WIZnPR_xOlYPMYmwE-6" target="Ww6WIZnPR_xOlYPMYmwE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ww6WIZnPR_xOlYPMYmwE-6" target="Ww6WIZnPR_xOlYPMYmwE-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="254" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="400" />
+              <mxPoint x="280" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-6" value="divider !=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ww6WIZnPR_xOlYPMYmwE-8" target="Ww6WIZnPR_xOlYPMYmwE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ww6WIZnPR_xOlYPMYmwE-8" target="Ww6WIZnPR_xOlYPMYmwE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-8" value="residuo-divider&amp;gt;=0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ww6WIZnPR_xOlYPMYmwE-10" target="Ww6WIZnPR_xOlYPMYmwE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-10" value="residuo -=divider" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ww6WIZnPR_xOlYPMYmwE-12" target="Ww6WIZnPR_xOlYPMYmwE-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-12" value="++i" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="546" y="620" width="56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ww6WIZnPR_xOlYPMYmwE-16" target="Ww6WIZnPR_xOlYPMYmwE-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-16" value="cociente =i" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="670" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ww6WIZnPR_xOlYPMYmwE-18" target="Ww6WIZnPR_xOlYPMYmwE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-18" value="cociente, &quot; &quot;, residuo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-20" value="FIN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-25" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="368" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-26" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="458" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-27" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="454" y="530" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww6WIZnPR_xOlYPMYmwE-29" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="598" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
